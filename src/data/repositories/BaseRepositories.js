@@ -1,4 +1,4 @@
-const BaseRepository = {
+// const BaseRepository = {
     // fetchItem: (id) => Promise.resolve(),
     // saveItem: (params) => {},
     // clearItem: () => {},
@@ -7,8 +7,8 @@ const BaseRepository = {
     // saveItems: (params) => {},
     // clearItems: () => {},
     // getItems: () => {},
-    userAuth:()=>{},
-    isAuth:(token)=>{}
-  };
+  //   userAuth:()=>{},
+  //   isAuth:(token)=>{}
+  // };
   
-  export default BaseRepository;
+  // export default BaseRepository;
